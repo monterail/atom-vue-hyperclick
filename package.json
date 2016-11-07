@@ -1,7 +1,7 @@
 {
   "name": "vue-hyperclick",
   "main": "./lib/vue-hyperclick",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A hyperclick provider for Vue components that lets you jump to where variables are defined.",
   "keywords": [],
   "repository": "https://github.com/monterail/atom-vue-hyperclick",
