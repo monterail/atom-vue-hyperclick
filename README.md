@@ -14,5 +14,5 @@ Supports jumping between all combinations of `*.vue` and `*.js` files
 
 Install via atom or apm:
 ```
-apm install vue-hyperclick js-hyperclick language-vue
+apm install vue-hyperclick js-hyperclick hyperclick language-vue
 ```
