@@ -24,5 +24,6 @@
   },
   "devDependencies": {
     "eslint": "^3.7.0"
-  }
+  },
+  "package-deps": ["language-vue", "js-hyperclick"]
 }
