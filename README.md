@@ -6,13 +6,9 @@ A hyperclick provider for Vue components that lets you jump to where variables a
 
 Supports jumping between all combinations of `*.vue` and `*.js` files
 
-## dependencies
-- `js-hyperclick` plugin has to be installed to provide core js hyperclick capabilities
-- `language-vue` plugin is required to detect `*.vue` grammar correctly
-
 ## installation
 
 Install via atom or apm:
 ```
-apm install vue-hyperclick js-hyperclick hyperclick language-vue
+apm install vue-hyperclick
 ```
